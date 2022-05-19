@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  AutoFillTest
-//
-//  Created by Valentine Gorshkov on 19.05.2022.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
