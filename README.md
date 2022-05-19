@@ -20,6 +20,8 @@ When I invoke AutoFill feature only first textfield is filled.
 
 The second screen in example is simplified and works correctly.
 
+![Simplified layout][simplified]
+
 ![Screen 4][screen4]
 ![Screen 5][screen5]
 
